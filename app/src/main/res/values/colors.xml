@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="seasalt">#F8F9FA</color>
+    <color name="anti_flash_white">#E9ECEF</color>
+    <color name="platinum">#DEE2E6</color>
+    <color name="frenchgray">#CED4DA</color>
+    <color name="french_gray">#ADB5BD</color>
+    <color name="slate_gray">#6C757D</color>
+    <color name="outer_space">#495057</color>
+    <color name="onyx">#343A40</color>
+    <color name="eerie_black">#212529</color>
+</resources>
